@@ -1,0 +1,11 @@
+PatientID,Age,Gender,Height_cm,Weight_kg,BMI,Cholesterol_mg_dl,BloodPressure_mmHg,SmokingStatus,DiseaseStatus
+1,45,Male,170,70,24.2,190,120/80,Non-smoker,Healthy
+2,52,Female,160,68,26.6,210,140/90,Smoker,Disease
+3,36,Female,155,55,22.9,180,118/76,Non-smoker,Healthy
+4,60,Male,175,85,27.8,230,150/95,Smoker,Disease
+5,49,Female,162,72,27.4,200,135/88,Former-smoker,Healthy
+6,29,Male,180,75,23.1,175,110/70,Non-smoker,Healthy
+7,65,Female,158,60,24,250,160/100,Smoker,Disease
+8,38,Male,165,68,25,195,125/85,Former-smoker,Healthy
+9,55,Male,172,90,30.4,240,145/92,Smoker,Disease
+10,42,Female,165,65,23.9,185,118/78,Non-smoker,Healthy
